@@ -14,7 +14,7 @@ app.use(
 app.use("/person", personRoutes)
 
 mongoose
-    .connect('mongodb+srv://apimongo:aAWGmhEiftJgxbfd@apicluster.kob9w.mongodb.net/apicluster?retryWrites=true&w=majority')
+    .connect('')
     .then(() => {
         app.listen(3001)
     })
