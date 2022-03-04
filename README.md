@@ -1,6 +1,6 @@
 # API-express-mongoDb-mongoose
 
-<img src="https://ichi.pro/assets/images/max/724/1*NFTgwZ_TUmceZnSHCundBw.jpeg" alt="exemplo imagem">
+<img src="img.jpg" alt="img">
 
 > Esse repositório tem como objetivo exemplificar uma API, utilizando como banco de dados NoSQL o mongoDB
 
