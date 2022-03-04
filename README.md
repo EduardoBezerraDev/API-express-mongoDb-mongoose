@@ -17,6 +17,8 @@ Foram utilizados os seguintes pacotes/linguagens:
 Para instalar a API-express-mongoDb-mongoose, siga estas etapas:
 * Faça o clone desse projeto
 * Navegue até a pasta
+* abra o arquivo index.js
+* altere *mongoose.connect("")* colocando entre as aspas a string de conexão gerada no mongoDB atlas
 * Digite "npm install" no terminal
 * Digite "npm start" para iniciar o projeto
 * Pronto. A API estará rodando normalmente
